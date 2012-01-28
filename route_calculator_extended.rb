@@ -1,8 +1,5 @@
 #Marko Vukadinovic
-#Matrikel-Nummer:2085118
-#Media Systems - WiSe 2011/12
-# Hilfsmittel: Vorlesungsunterlagen, Internet, Grupenbesprechung mit anderen Kommilitonen
-# In deiser Datei USER STORY 1,2,3 und 4
+
 
 # Klasse Dijkstra - User Story 4____________________________________________________________
 class Dijkstra 	

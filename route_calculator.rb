@@ -1,14 +1,8 @@
 #Marko Vukadinovic
-#Matrikel-Nummer:2085118
-#Media Systems - WiSe 2011/12
-#In dieser Datei ::: User Story 1, 2 und 4
 
-# W I C H T I G !!!!! 
 
-require '/home/marek/Desktop/user story/Dijkstra.rb' # W I C H T I G !!! Der Pfad der Dijkstra Klasse unter dem Debian Linux 6. 
-# Im Debian Linux muss man den ganzen Pfad eingeben. Ich habe auch versuchr mit der Command require '.Dijkstra.rb' wobei die beiden Dateien in einem gemeinsamen Ordner ->
-# -> gewesen sind. Hat aber nicht geklappt. Ich weiss auch dass Sie Mac OSx haben und weiss nicht wie das unter dem Mac funktioniert.
-#Warscheinlich werden Sie den Pfad der Klasse Dijkstra.rb aendern mussen.
+
+require '/home/marek/Desktop/user story/Dijkstra.rb'
 
 # Hausaufgabe 1 -> User Story 01____________________________________
 puts ''
