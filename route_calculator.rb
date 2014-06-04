@@ -2,7 +2,7 @@
 
 
 
-require '/home/marek/Desktop/user story/Dijkstra.rb'
+require '/Users/marko/git/route_calculator/Dijkstra.rb'
 
 # Hausaufgabe 1 -> User Story 01____________________________________
 puts ''
